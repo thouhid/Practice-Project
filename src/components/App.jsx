@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import Counters from './Counters';
-import NavBar from './NavBar';
 import FromTest from './FormTest';
+import NavBar from './NavBar';
 
 class App extends Component {
     counterData = [
